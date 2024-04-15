@@ -11,7 +11,7 @@ import lombok.ToString;
 @NoArgsConstructor
 @Data
 @ToString
-@Table(name = "pincode")
+@Table(name = "pincode_record")
 public class PincodeEntity {
 
     @Id
